@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=170&text=KIM%20Beomjin&desc=Mobile%20and%20BackEnd%20Developer&fontAlign=35&theme=tokyonight&fontAlignY=40&descAlignY=65)
 
-HI! I'm a mobile application developer and a back-end developer. 
+HI! I'm a mobile application and back-end developer. 
 
 I have experienced native using Java and Kotlin, cross-platform using Flutter for mobile application development.
 
