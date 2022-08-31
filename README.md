@@ -11,13 +11,10 @@ I have experienced native using Java and Kotlin, cross-platform using Flutter fo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemesis709&layout=compact)](https://github.com/nemesis709/github-readme-stats)
 
-### And I tried...
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat&logo=C%20Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
-
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iTerm2&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iTerm2&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 
 ### DB
 
